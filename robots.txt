@@ -1,0 +1,3 @@
+User-Agent: *
+Sitemap: https://dolgi-po-kreditam.ru/sitemap.xml
+Host: https://dolgi-po-kreditam.ru
